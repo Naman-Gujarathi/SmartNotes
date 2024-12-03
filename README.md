@@ -1,4 +1,4 @@
-# Notes Management API
+# Smart Notes
 
 This is a Express.js API for managing notes. It allows users to create, read, update, and delete notes, along with fetching information about countries using an external API.
 
